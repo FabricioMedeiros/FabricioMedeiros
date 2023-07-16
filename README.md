@@ -1,4 +1,4 @@
-### E ai galera, me chamo Fabrício e sou apaixonado por Desenvolvimento de Softwares!
+### Olá! Me chamo Fabrício, sou um desenvolvedor apaixonado por tecnologia. Estou sempre em busca de aprender novas habilidades e desafios.
 
 <div align="center">
   <a href="https://github.com/FabricioMedeiros">
